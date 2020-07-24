@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Alistair. Thanks for dropping by! I'm a Mobile App Developer that builds apps for businesses and individuals. I founded [Sika App](https://sika.co.zw/) and currently serving as a community lead for [Flutter Zimbabwe](https://twitter.com/FlutterZimbabwe). Flutter is my go to framework when making different applications, however I also have experience in native development and a graduate of the Google Android Africa Scholarship program. You can find me at events like Hacktoberfest and ForLoop Zimbabwe (maybe at Flutter events soon😏).
+I am Alistair. Thanks for dropping by! I'm a Mobile App Developer that builds apps for businesses and individuals. I founded [Sika App](https://sika.co.zw/) and currently serving as a Co-Organizer for [Flutter Zimbabwe](https://twitter.com/FlutterZimbabwe) and [Flutter Africa](https://twitter.com/Flutter_Africa). Flutter is my go to framework when making different applications, however I also have experience in native development and a graduate of the Google Android Africa Scholarship program. You can find me at events like Hacktoberfest and ForLoop Zimbabwe (maybe at Flutter events soon😏).
 
 - :man_technologist: I’m currently working for QubedLab 
 - 🌱 I’m currently learning how to make desktop apps
