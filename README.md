@@ -8,5 +8,3 @@ I am Alistair. Thanks for dropping by! I'm a Mobile App Developer that builds ap
 - 💬 Ask me about starting in Flutter or how to build a start-up from scratch
 - 📫 How to reach me: [Twitter](https://twitter.com/alistairholmes_)
 - ⚡ Fun fact: Manchester United & Formula 1 fan
-
-[![An image of @alistairholmes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alistairholmes)](https://holopin.io/@alistairholmes)
